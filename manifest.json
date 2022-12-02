@@ -1,0 +1,27 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/icon-128.png",
+         "16": "images/icon-16.png",
+         "24": "images/icon-24.png",
+         "32": "images/icon-32.png",
+         "48": "images/icon-48.png",
+         "64": "images/icon-64.png"
+      }
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "A button to quickly open Leetcode playground. Don't forget to PIN IT in the top right corner after installing the extension.",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "24": "images/icon-24.png",
+      "32": "images/icon-32.png",
+      "48": "images/icon-48.png",
+      "64": "images/icon-64.png"
+   },
+   "manifest_version": 3,
+   "name": "Leetcode Playground",
+   "version": "1.0.0"
+}
